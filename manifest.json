@@ -1,0 +1,11 @@
+﻿{
+  "title": "ChatGPT",
+  "description": "Text Completion AI, chat features coming soon",
+  "version": "1.0",
+  "datePublished": "2024-01-02T00:00:00",
+  "author": "OpenAi",
+  "guid": "0f6d1b4a-7aa5-41c5-b34f-85941b9a500d",
+  "iconUri": "icon.png",
+  "tags": "AI, Aritifical Intelligence, Generative AI, OpenAI, Text, Prompt, ChatGPT",
+  "packageType": "Dll"
+}
