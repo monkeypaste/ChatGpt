@@ -1,6 +1,7 @@
 # ChatGPT
 A [ChatGpt](https://openai.com/chatgpt) plugin for MonkeyPaste
 <p style="text-align: center;"><img style="width: 10%" src="icon.png" /></p>
+
 ## Requirements
 - An installation of [MonkeyPaste](https://www.monkeypaste.com/download) 
 - An [OpenAi Api Key](https://platform.openai.com/signup/)
