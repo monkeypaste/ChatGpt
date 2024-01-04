@@ -1,9 +1,8 @@
 ﻿{
   "title": "ChatGPT",
   "description": "Text Completion AI, chat features coming soon",
-  "version": "1.0",
-  "datePublished": "2024-01-02T00:00:00",
-  "author": "OpenAi",
+  "version": "1.0.3",
+  "author": "Monkey LLC",
   "guid": "0f6d1b4a-7aa5-41c5-b34f-85941b9a500d",
   "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/README.md",
   "projectUrl": "https://github.com/monkeypaste/ChatGpt",
