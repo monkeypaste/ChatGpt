@@ -1,0 +1,13 @@
+{
+  "title": "ជជែកកំសាន្ត GPT",
+  "description": "ការបំពេញអត្ថបទអេអាយ, លក្ខណៈពិសេសជជែកមកដល់ឆាប់ៗនេះ",
+  "version": "1.0.3.0",
+  "author": "Monkey",
+  "guid": "0f6d1b4a-7aa5-41c5-b34f-85941b9a500d",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/ChatGpt",
+  "packageUrl": "https://github.com/monkeypaste/ChatGpt/releases/download/v1.0.3.0/v1.0.3.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/icon.png",
+  "tags": "អាយអេអាយអេ, ភាពវៃឆ្លាតផ្លែប៉ែកនី, អេអាយអេ, អេ, អត្ថបទ, ប្រអប់បញ្ចូល, ជជែកកំសាន្ត, Chatgpt",
+  "packageType": "Dll"
+}

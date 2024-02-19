@@ -1,0 +1,13 @@
+{
+  "title": "চ্যাট জিপিটি",
+  "description": "পাঠ্য সমাপ্তি এআই, চ্যাট বৈশিষ্ট্যগুলি শীঘ্রই আসছে",
+  "version": "1.0.3.0",
+  "author": "Monkey",
+  "guid": "0f6d1b4a-7aa5-41c5-b34f-85941b9a500d",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/ChatGpt",
+  "packageUrl": "https://github.com/monkeypaste/ChatGpt/releases/download/v1.0.3.0/v1.0.3.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/icon.png",
+  "tags": "এআই, অ্যারিটিফিকাল ইন্টেলিজেন্স, জেনারেটর এআই, ওপেনএআই, পাঠ্য, প্রম্পট, চ্যাটজিপিটি",
+  "packageType": "Dll"
+}

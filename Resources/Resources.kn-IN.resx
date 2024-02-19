@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Description" xml:space="preserve">
+    <value>ಪಠ್ಯ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆ AI, ಚಾಟ್ ವೈಶಿಷ್ಟ್ಯಗಳು ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿವೆ</value>
+  </data>
+  <data name="KeyDescription" xml:space="preserve">
+    <value>ಉಚಿತ API ಕೀಲಿಗಾಗಿ ಸೈನ್ ಅಪ್ ಮಾಡಲು ಕೆಳಗಿನ ಲಿಂಕ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ</value>
+  </data>
+  <data name="KeyLabel" xml:space="preserve">
+    <value>ಎಪಿಐ ಕೀಲಿ</value>
+  </data>
+  <data name="ModelLabel" xml:space="preserve">
+    <value>ಮಾದರಿ</value>
+  </data>
+  <data name="OrgDescription" xml:space="preserve">
+    <value>ಒದಗಿಸಿದ ಸಂಸ್ಥೆಗೆ ಬಳಕೆಯನ್ನು ಅನ್ವಯಿಸಲಾಗುತ್ತದೆ</value>
+  </data>
+  <data name="OrgLabel" xml:space="preserve">
+    <value>ಸಂಸ್ಥೆ (ಐಚ್ al ಿಕ)</value>
+  </data>
+  <data name="PromptDescription" xml:space="preserve">
+    <value>ಚಾಟ್ ಜಿಪಿಟಿಗೆ ಕಳುಹಿಸುವ ಸಂದೇಶ</value>
+  </data>
+  <data name="PromptLabel" xml:space="preserve">
+    <value>ಚುರುಕು</value>
+  </data>
+  <data name="SignupLabel" xml:space="preserve">
+    <value>ಸೈನ್ ಅಪ್</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>ಎಐ, ಅರ್ಹತಾ ಬುದ್ಧಿವಂತಿಕೆ, ಉತ್ಪಾದಕ ಎಐ, ಓಪನ್ಐ, ಪಠ್ಯ, ಪ್ರಾಂಪ್ಟ್, ಚಾಟ್ಜಿಪಿಟಿ</value>
+  </data>
+  <data name="TempDescription" xml:space="preserve">
+    <value>ಹೆಚ್ಚಿನ ಮೌಲ್ಯಗಳು ಹೆಚ್ಚು ಯಾದೃಚ್ or ಿಕ ಅಥವಾ ಸೃಜನಶೀಲ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ರಚಿಸುತ್ತವೆ. ಕಡಿಮೆ ಮೌಲ್ಯಗಳು ಹೆಚ್ಚು ವಾಸ್ತವಿಕ ಮತ್ತು ಕೇಂದ್ರೀಕೃತವಾಗಿವೆ.</value>
+  </data>
+  <data name="TempLabel" xml:space="preserve">
+    <value>ತಾಪಮಾನ</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>ಚಾಟ್ ಜಿಪಿಟಿ</value>
+  </data>
+</root>

@@ -1,0 +1,13 @@
+{
+  "title": "聊天GPT",
+  "description": "文本完成AI，聊天功能即將推出",
+  "version": "1.0.3.0",
+  "author": "Monkey",
+  "guid": "0f6d1b4a-7aa5-41c5-b34f-85941b9a500d",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/ChatGpt",
+  "packageUrl": "https://github.com/monkeypaste/ChatGpt/releases/download/v1.0.3.0/v1.0.3.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/icon.png",
+  "tags": "人工智能，弧形智能，生成型AI，OpenAI，文字，提示，chatgpt",
+  "packageType": "Dll"
+}

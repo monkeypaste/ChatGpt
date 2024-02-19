@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Description" xml:space="preserve">
+    <value>টেক্সট কম্প্লিচন AI, Chat বৈশিষ্ট্যসমূহ অতি সোনকালে আহি আছে</value>
+  </data>
+  <data name="KeyDescription" xml:space="preserve">
+    <value>এটা বিনামূলীয়া API কি'ৰ বাবে Signup লৈ তলৰ লিংকটো ক্লিক কৰক</value>
+  </data>
+  <data name="KeyLabel" xml:space="preserve">
+    <value>API চাবি</value>
+  </data>
+  <data name="ModelLabel" xml:space="preserve">
+    <value>মডেল</value>
+  </data>
+  <data name="OrgDescription" xml:space="preserve">
+    <value>প্ৰদান কৰা সংস্থাত ব্যৱহাৰ প্ৰয়োগ কৰা হ’ব।</value>
+  </data>
+  <data name="OrgLabel" xml:space="preserve">
+    <value>সংস্থা (ঐচ্ছিক)</value>
+  </data>
+  <data name="PromptDescription" xml:space="preserve">
+    <value>Chat GPT লৈ প্ৰেৰণ কৰিবলগীয়া বাৰ্তা</value>
+  </data>
+  <data name="PromptLabel" xml:space="preserve">
+    <value>শীঘ্ৰে</value>
+  </data>
+  <data name="SignupLabel" xml:space="preserve">
+    <value>চাইন আপ কৰক</value>
+  </data>
+  <data name="Tags" xml:space="preserve">
+    <value>AI, aritifical বুদ্ধিমত্তা, জেনারেটিভ AI, Openai, পাঠ, প্রমপ্ট, Chatgpt</value>
+  </data>
+  <data name="TempDescription" xml:space="preserve">
+    <value>উচ্চ মূল্যবোধে অধিক যাদৃচ্ছিক বা সৃষ্টিশীল সঁহাৰিৰ সৃষ্টি কৰিব। কম মূল্যবোধ অধিক বাস্তৱিক আৰু কেন্দ্ৰীভূত।</value>
+  </data>
+  <data name="TempLabel" xml:space="preserve">
+    <value>তাপমান</value>
+  </data>
+  <data name="Title" xml:space="preserve">
+    <value>Chat GPT</value>
+  </data>
+</root>

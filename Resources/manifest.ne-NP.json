@@ -1,0 +1,13 @@
+{
+  "title": "च्याट gt",
+  "description": "पाठ समापन AI, च्याट सुविधाहरू चाँडै आउँदैछ",
+  "version": "1.0.3.0",
+  "author": "Monkey",
+  "guid": "0f6d1b4a-7aa5-41c5-b34f-85941b9a500d",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/ChatGpt",
+  "packageUrl": "https://github.com/monkeypaste/ChatGpt/releases/download/v1.0.3.0/v1.0.3.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/icon.png",
+  "tags": "Ai, अत्याचार्य बौद्ध, जेनेरिटी, अंकई, पाठ, प्रम्प्ट: चेक",
+  "packageType": "Dll"
+}

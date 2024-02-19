@@ -1,0 +1,13 @@
+{
+  "title": "دردشة GPT",
+  "description": "إكمال النص AI ، ميزات الدردشة قريبا",
+  "version": "1.0.3.0",
+  "author": "Monkey",
+  "guid": "0f6d1b4a-7aa5-41c5-b34f-85941b9a500d",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/ChatGpt",
+  "packageUrl": "https://github.com/monkeypaste/ChatGpt/releases/download/v1.0.3.0/v1.0.3.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/ChatGpt/master/icon.png",
+  "tags": "الذكاء الاصطناعي ، الذكاء التوليف ، الذكاء الاصطناعي ، Openai ، نص ، موجه ، chatgpt",
+  "packageType": "Dll"
+}
